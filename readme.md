@@ -11,10 +11,10 @@ Instruction : <br>
 
 ## Screenshot of ongoing game
 
-![ss of on going game](images\ss2.png)
+![ss of on going game](/images/ss2.png)
 
 ## Screenshot when lost
 
-![ss of on going game](images\ss1.png)
+![ss of on going game](/images/ss1.png)
 
 ### Screenshot when won is not available because as of now I haven't won any match yet, LOL
