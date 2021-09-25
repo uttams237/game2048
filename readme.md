@@ -7,6 +7,11 @@ Instruction : <br>
 * Tiles with the same number merge into one when they touch.
 * Add them up to reach 2048!
 
+In this project/game I've used:
+* tkinter module
+* OOPs concept
+* Few matrix/array related algorithms
+
 <br>
 
 ## Screenshot of ongoing game
