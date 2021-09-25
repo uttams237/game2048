@@ -8,6 +8,7 @@ class game2048(Frame):
     def __init__(self):
         Frame.__init__(self)  # creates frame for self (ie,game2048)
 
+        self.master.iconbitmap("gameIcon.ico")
         self.grid()
         self.master.title("2048")
         self.master.bind("<Key>", self.key_down)
@@ -68,7 +69,7 @@ class game2048(Frame):
     
     def key_down(self,event):
         key= repr(event.char)
-        print(key)
+        # print(key)
         if key in self.commands:
             self.matrix,changed= self.commands[repr(event.char)](self.matrix)
 
